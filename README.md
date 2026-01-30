@@ -9,6 +9,6 @@ atualizado na api awesome.api
 - VsCode
 
 ## Como executar
-- 1 Cloente este repositório
+- 1 Clone este repositório
 - 2 Abra com Code
 - 3 Execute o arquivo index.html com Live Server
